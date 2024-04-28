@@ -1,0 +1,206 @@
+# Engine Math
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body style="background-color: gainsboro;">
+        <div>
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td>
+                        <h1 style="color: blue" ;="">Software</h1>        
+                    </td>
+                    <td>
+                        <img src="README_files/enginemath.gif" width="100px" height="80px">
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <hr>
+        <div>
+            <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td width="30%">
+                        <h2 style="color: blue;">Integrated Budget
+                            Office Toolbox</h2>
+                            <p>The Integrated Budget Office Toolbox
+                                (IBOT) combines budgeting, resource al-
+                                location, organizational funding, and re-
+                                porting features in an automated, inte-
+                                grated tool that provides data from a
+                                single source for Johnson Space Center
+                                (JSC) personnel. Using a common inter-
+                                face, concurrent users can utilize the data
+                                without compromising its integrity.</p><p>IBOT
+                                tracks planning changes and updates
+                                throughout the year using both phasing
+                                and POP-related (program-operating-
+                                plan-related) budget information for the
+                                current year, and up to six years out.</p><p>
+                                Separating lump-sum funds received
+                                from HQ (Headquarters) into separate
+                                labor, travel, procurement, Center G&amp;A
+                                (general &amp; administrative), and service-
+                                pool categories, IBOT creates a script
+                                that significantly reduces manual input
+                                time. IBOT also manages the movement
+                                of travel and procurement funds down
+                                to the organizational level and, using its
+                                integrated funds management feature,
+                                helps better track funding at lower lev-
+                                els. Third-party software is used to cre-
+                                ate integrated reports in IBOT that can
+                                be generated for plans, actuals, funds
+                                received, and other combinations of
+                                data that are currently maintained in
+                                the centralized format.</p><p>Based on Mi-
+                                crosoft SQL, IBOT incorporates generic
+                                budget processes, is transportable, and
+                                is economical to deploy and support.</p><p>
+                                This program was written by Douglas A.
+                                Rushing, Chris Blakeley, Gerry Chapman,
+                                and Bill Robertson of Johnson Space Center
+                                and Allison Horton, Thomas Besser, and
+                                Debbie McCarthy of SAIC. Further informa-
+                                tion is contained in a TSP (see page 1). MSC-
+                                24167-1</p>
+                                <h2 style="color: blue" ;="">PLOT3D Export Tool for
+                                    Tecplot</h2>
+                                    <p>The PLOT3D export tool for Tecplot
+                                        solves the problem of modified data
+                                        being impossible to output for use by an-
+                                        other computational science solver.</p><p> The
+                                        PLOT3D Exporter add-on enables the
+                                        use of the most commonly available visu-
+                                        alization tools to engineers for output of
+                                        a standard format.</p><p> The exportation of
+                                        PLOT3D data from Tecplot has far
+                                        reaching effects because it allows for grid
+                                        and solution manipulation within a</p>
+                    </td>
+                    <td width="30%">
+                        <p>graphical user interface (GUI) that is
+                            easily customized with macro language-
+                            based and user-developed GUIs.</p><p> The
+                            add-on also enables the use of Tecplot as
+                            an interpolation tool for solution conver-
+                            sion between different grids of different
+                            types. This one add-on enhances the
+                            functionality of Tecplot so significantly, it
+                            offers the ability to incorporate Tecplot
+                            into a general suite of tools for computa-
+                            tional science applications as a 3D graph-
+                            ics engine for visualization of all data.</p><p>
+                            Within the PLOT3D Export Add-on
+                            are several functions that enhance the
+                            operations and effectiveness of the add-
+                            on. Unlike Tecplot output functions,
+                            the PLOT3D Export Add-on enables
+                            the use of the zone selection dialog in
+                            Tecplot to choose which zones are to be
+                            written by offering three distinct op-
+                            tions — output of active, inactive, or all
+                            zones (grid blocks). As the user modi-
+                            fies the zones to output with the zone
+                            selection dialog, the zones to be written
+                            are similarly updated. This enables the
+                            use of Tecplot to create multiple config-
+                            urations of a geometry being analyzed.</p><p>
+                            For example, if an aircraft is loaded
+                            with multiple deflections of flaps, by ac-
+                            tivating and deactivating different
+                            zones for a specific flap setting, new
+                            specific configurations of that aircraft
+                            can be easily generated by only writing
+                            out specific zones. Thus, if ten flap set-
+                            tings are loaded into Tecplot, the
+                            PLOT3D Export software can output
+                            ten different configurations, one for
+                            each flap setting.</p>
+                            This work was done by Stephen Alter of Lang-
+                            ley Research Center. Further information is con -
+                            tained in a TSP (see page 1). LAR -17678-1<p></p>
+                            <h2 style="color: blue" ;="">Math Description Engine
+                                Software Development Kit</h2>
+                                <p>The Math Description Engine Soft-
+                                    ware Development Kit (MDE SDK) can
+                                    be used by software developers to make
+                                    computer-rendered graphs more accessi-
+                                    ble to blind and visually-impaired users.</p><p>
+                                    The MDE SDK generates alternative
+                                    graph descriptions in two forms: textual
+                                    descriptions and non-verbal sound ren-
+                                    derings, or sonification. It also enables
+                                    display of an animated trace of a graph
+                                    sonification on a visual graph compo-
+                                    nent, with color and line-thickness op-
+                                    tions for users having low vision or color-
+                                    related impairments. A set of accessible</p>
+                    </td>
+                    <td width="30%">
+                        <p>graphical user interface widgets is pro-
+                            vided for operation by end users and for
+                            control of accessible graph displays.
+                            Version 1.0 of the MDE SDK generates
+                            text descriptions for 2D graphs com-
+                            monly seen in math and science curricu-
+                            lum (and practice). The mathematically
+                            rich text descriptions can also serve as a
+                            virtual math and science assistant for
+                            blind and sighted users, making graphs
+                            more accessible for everyone.
+                            The MDE SDK has a simple applica-
+                            tion programming interface (API) that
+                            makes it easy for programmers and
+                            Web-site developers to make graphs ac-
+                            cessible with just a few lines of code.
+                            The source code is written in Java for
+                            cross-platform compatibility and to take
+                            advantage of Java’s built-in support for
+                            building accessible software application
+                            interfaces. Compiled-library and NASA
+                            Open Source versions are available with
+                            API documentation and Programmer’s
+                            Guide at http:/ / prim e.jsc.n asa. gov.
+                            This work was done by Robert O. Shelton
+                            of Johnson Space Center, Stephanie L. Smith
+                            and Dan E. Dexter of L-3 Communications
+                            Corp., and Terry R. Hodgson of Indyne, Inc.
+                            Further information is contained in a TSP
+                            (see page 1). MSC-24139-1</p>
+                            <h2 style="color: blue" ;="">Astronaut Office Scheduling
+                                System Software</h2>
+                                <p>AOSS is a highly efficient scheduling
+                                    application that uses various tools to
+                                    schedule astronauts’ weekly appoint-
+                                    ment information. This program repre-
+                                    sents an integration of many technolo-
+                                    gies into a single application to facilitate
+                                    schedule sharing and management. It is
+                                    a Windows-based application developed
+                                    in Visual Basic. Because the NASA stan-
+                                    dard office automation load environ-
+                                    ment is Microsoft-based, Visual Basic
+                                    provides AO SS developers with the abil-
+                                    ity to interact with Windows collabora-
+                                    tion components by accessing objects
+                                    models from applications like Outlook
+                                    and Excel. This also gives developers the
+                                    ability to create newly customizable com-
+                                    ponents that perform specialized tasks
+                                    pertaining to scheduling reporting in-
+                                    side the application. With this capability,
+                                    AOSS can perform various asynchro-
+                                    nous tasks, such as gathering/ send-
+                                    ing/ managing astronauts’ schedule in-
+                                    formation directly to their Outlook
+                                    calendars at any time. AOSS users use
+                                    N</p> 
+                    </td> 
+                </tr>
+            </tbody></table>
+        </div>
+    
+    
+</body></html>
